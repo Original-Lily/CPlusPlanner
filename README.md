@@ -10,9 +10,12 @@ These tasks are stored locally via tasks.txt.
    git clone https://github.com/Original-Lily/CPlusPlanner.git
    ```
 
-2. Ensure you have a valid C++ compiler installed and use: `g++ -o SkillSync.exe SkillSync.cpp`
+2. Ensure you have a valid C++ compiler installed and use:
+   ```
+   g++ -o SkillSync.exe SkillSync.cpp
+   ```
 
-3. Run the program via:
+4. Run the program via:
    ```
    .\SkillSync.exe
    ```
