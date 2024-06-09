@@ -15,7 +15,7 @@ These tasks are stored locally via tasks.txt.
    g++ -o SkillSync.exe SkillSync.cpp
    ```
 
-4. Run the program via:
+3. Run the program via:
    ```
    .\SkillSync.exe
    ```
